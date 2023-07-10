@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template-Api-Shortcuts", "Template-Api-Shortcuts\Template-Api-Shortcuts.csproj", "{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E6B7554-8055-4F76-8503-B95E7D9A9BDA}
+	EndGlobalSection
+EndGlobal
