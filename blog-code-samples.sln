@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template-Api-Shortcuts", "Template-Api-Shortcuts\Template-Api-Shortcuts.csproj", "{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyed-Services", "Keyed-Services\Keyed-Services.csproj", "{A797B755-505E-410B-B8CD-7BC0A6DFF1A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1D1B398-2755-4C01-851D-B93F4D9CDE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A797B755-505E-410B-B8CD-7BC0A6DFF1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A797B755-505E-410B-B8CD-7BC0A6DFF1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A797B755-505E-410B-B8CD-7BC0A6DFF1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A797B755-505E-410B-B8CD-7BC0A6DFF1A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
